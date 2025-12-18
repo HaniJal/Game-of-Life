@@ -1,4 +1,3 @@
-# Game-of-Life
 # Conway’s Game of Life (Java)
 
 A Java implementation of **Conway’s Game of Life** using a 2D boolean grid.  
